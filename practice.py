@@ -7,4 +7,5 @@ mydataset = {
 }
 myvar = pd.DataFrame(mydataset)
 
+myvar.info()
 print(myvar)
